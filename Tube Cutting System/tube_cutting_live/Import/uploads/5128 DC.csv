@@ -1,0 +1,5 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,02KXY,5128,M4-20,VO14X0.5(B)-FALP,With Slit,100,100,3
+3,02KXX,5128,L2-16,VO12X0.5(B)-FALP,With Slit,100,100,3
+3,02KXW,5128,K3-29,VO8X0.5(B)-FALP,With Slit,160,100,3
+3,01PFP,3133,A4-18,RCOT5-FALP,,385,100,3

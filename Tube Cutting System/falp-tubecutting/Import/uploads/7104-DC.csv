@@ -1,0 +1,3 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,01LUT,3144,Temp Location,NCOT5-FALP,,100,100,2
+3,23886,3144,Temp Location,HNCOT5(GR),,740,100,2

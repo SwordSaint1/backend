@@ -1,0 +1,4 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+12,ubuntu test,ubuntu test,ubuntu test,ubuntu test,ubuntu test,ubuntu test,ubuntu test,3
+12,ubuntu test test,ubuntu test test,ubuntu test test,ubuntu test test,ubuntu test test,ubuntu test test,ubuntu test test,3
+12,Parts 123,line123,stock123,name123,com123,len123,qua123,10

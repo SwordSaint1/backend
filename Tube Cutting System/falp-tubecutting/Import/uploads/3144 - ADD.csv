@@ -1,0 +1,4 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,01PFP,3144,Temp Location,RCOT5-FALP,,635,100,1
+3,01PFP,3144,A5-08,RCOT5-FALP,,135,100,1
+3,01PFP,3144,Temp Location,RCOT5-FALP,,365,100,1

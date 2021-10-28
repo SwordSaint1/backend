@@ -1,0 +1,5 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,01LUT,5136,H3-06,NCOT5-FALP,,45,100,2
+3,01LUT,5136,H3-11,NCOT5-FALP,,65,100,2
+3,01LUT,5136,H3-10,NCOT5-FALP,,100,100,2
+3,23270,5136,F4-10,HCOT5(GR),,140,100,2

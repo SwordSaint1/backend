@@ -1,0 +1,46 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,40839,Battery Initial,D4-04,NCOT10-NC-DFPH,,345,100,2
+0,01MKV,Battery Initial,Temp. Location,NCOT10-NC-FALP,,170,100,6
+0,01MKV,Battery Initial,Temp. Location,NCOT10-NC-FALP,,190,100,6
+0,01MKV,Battery Initial,Special Kanban,NCOT10-NC-FALP,,405,30,2
+0,01MKV,Battery Initial,Special Kanban,NCOT10-NC-FALP,,475,30,2
+3,40840,Battery Initial,D4-03,NCOT13-NC-DFPH,,335,100,2
+0,01U8N,Battery Initial,Temp. Location,NCOT13-NC-FALP,,435,100,2
+0,01MKW,Battery Initial,Temp. Location,NCOT19-NC-FALP,,255,50,6
+0,01MKW,Battery Initial,Temp. Location,NCOT19-NC-FALP,,475,50,6
+0,01MKX,Battery Initial,Temp. Location,NCOT25-NC-FALP,,180,50,6
+0,01MKX,Battery Initial,Temp. Location,NCOT25-NC-FALP,,205,50,6
+0,00351,Battery Initial,Temp. Location,NCOT7-NC,,265,100,3
+0,00351,Battery Initial,Temp. Location,NCOT7-NC,,275,100,5
+3,01PFH,Battery Initial,A2-24,RCOT10-FALP,,165,100,5
+3,01PFH,Battery Initial,A3-24,RCOT10-FALP,,330,100,2
+3,01S6B,Battery Initial,D3-01,RCOT10-NC-FALP,,110,100,2
+3,01S6B,Battery Initial,D3-02,RCOT10-NC-FALP,,120,100,4
+3,01S6B,Battery Initial,D3-03,RCOT10-NC-FALP,,150,100,4
+3,01S6B,Battery Initial,D3-04,RCOT10-NC-FALP,,160,100,2
+3,01S6B,Battery Initial,D3-05,RCOT10-NC-FALP,,175,100,4
+3,01S6B,Battery Initial,D3-06,RCOT10-NC-FALP,,210,100,4
+1,01S6B,Battery Initial,D3-07,RCOT10-NC-FALP,,220,100,2
+3,01S6B,Battery Initial,D3-09,RCOT10-NC-FALP,,225,100,2
+3,01S6B,Battery Initial,D3-10,RCOT10-NC-FALP,,235,100,2
+1,01S6B,Battery Initial,D3-11,RCOT10-NC-FALP,,330,100,9
+3,01PFQ,Battery Initial,E1-14,RCOT7-FALP,,165,100,3
+3,07644,Battery Initial,E4-25,SOX-S10X0.3(B),,30,500,2
+3,07591,Battery Initial,E4-24,SOX-S12X0.4(B),,45,500,2
+3,23115,Battery Initial,E4-26,SOX-S13X0.4(B),,20,500,2
+1,23115,Battery Initial,E4-27,SOX-S13X0.4(B),,50,500,2
+3,07640,Battery Initial,E4-29,SOX-S8X0.3(B),,45,500,2
+1,26698,Battery Initial, E4-33,SOX-SF2Z12X0.25B,,45,500,2
+3,01MQQ,Battery Initial,E4-30,SOXW3F2-13X0.55B,,40,500,2
+1,02KXW,Battery Initial,K5-11,VO10X0.5(B)-FALP,,30,100,2
+3,02KXW,Battery Initial,K6-02,VO10X0.5(B)-FALP,,150,100,2
+3,02KXW,Battery Initial,K6-10,VO10X0.5(B)-FALP,,185,100,3
+3,02KXW,Battery Initial,K6-03,VO10X0.5(B)-FALP,,155,100,6
+3,02KY6,Battery Initial,N4-06,VO10X1(B)-FALP,,70,100,2
+3,02KY6,Battery Initial,N4-07,VO10X1(B)-FALP,,150,100,3
+3,02KY6,Battery Initial,N4-09,VO10X1(B)-FALP,,270,100,4
+3,02KY7,Battery Initial,N4-11,VO12X1(B)-FALP,,155,100,3
+3,02KY8,Battery Initial,N4-15,VO14X1(B)-FALP,,215,50,6
+3,02KY0,Battery Initial,M2-09,VO16X0.6(B)-FALP,,445,100,4
+3,02KY1,Battery Initial,M1-24,VO18X0.6(B)-FALP,,75,100,6
+3,02KXV,Battery Initial,K1-19,VO8X0.5(B)-FALP,,180,100,5

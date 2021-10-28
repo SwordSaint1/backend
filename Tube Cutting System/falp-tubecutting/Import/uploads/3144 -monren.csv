@@ -1,0 +1,4 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,01PFH,3144,A2-31,RCOT10-FALP,,200,100,2
+3,01PFH,3144,A3-17,RCOT10-FALP,,490,100,2
+3,01PFJ,3144,B3-10,RCOT15-FALP,,200,100,2

@@ -1,0 +1,5 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,With Slit,Length (mm),Quantity,Required Kanban
+3,01S68,3134,C2-18,RCOT17-FALP,,365,100,2
+3,01PF1,3134,C5-14,RCOT13-FALP,,365,100,2
+3,01S68,3133,C2-18,RCOT17-FALP,,365,100,2
+3,01PF1,3133,C5-14,RCOT13-FALP,,365,100,2

@@ -1,0 +1,3 @@
+Production Lot,Parts Code,Line No,Stock Address,Parts Name,Comment,Length (mm),Quantity,Required Kanban
+3,TEST IT,TEST IT,TEST IT,TEST IT,,120,1200,2
+3,TEST IT,TEST IT,TEST IT,TEST IT TEST IT,,130,100,3
